@@ -18,4 +18,4 @@
 <p>O 404 Spider respeita configurações de arquivos robots.txt e de metatags robots, rastreando e acessando apenas páginas permitidas pelo dono do site.</p>
 
 <h2>Quer usar/testar?</h2>
-<p><a href="https://404spider.codedev-tech.com.br/">Clique e acesse!</a></p>
+<p><a href="https://404spider.codedev-tech.com.br/">Clique, acesse e use!</a></p>
