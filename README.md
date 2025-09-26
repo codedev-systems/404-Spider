@@ -17,4 +17,5 @@
 <h2>Arquivo robots.txt e metatags robots</h2>
 <p>O 404 Spider respeita configurações de arquivos robots.txt e de metatags robots, rastreando e acessando apenas páginas permitidas pelo dono do site.</p>
 
-<p><a href="https://404spider.codedev-tech.com.br/">Clique aqui para usar/testar</a></p>
+<h2>Quer usar/testar?</h2>
+<p><a href="https://404spider.codedev-tech.com.br/">Clique aqui</a></p>
