@@ -10,3 +10,9 @@
 <li>Oferecer aos visitantes links acessíveis (é aqui onde o 404 Spider trabalha).</li>
 </ul>
 <p>Uma página considerada de má qualidade é severamente punida pelos bots dos motores de busca, sendo exibida nos últimos resultados, o que diminui muito sua visibilidade (o que pode impactar negativamente nas vendas, caso a página pertença a uma empresa).</p>
+
+<h2>Para quem é voltado o 404 Spider?</h2>
+<p>O 404 Spider é uma ferramenta simples voltada para quem tem um site na web e quer identificar e eliminar links quebrados, contribuindo para um melhor SEO.</p>
+
+<h2>Arquivo robots.txt e metatags robots</h2>
+<p>O 404 Spider respeita configurações de arquivos robots.txt e de metatags robots, rastreando e acessando apenas páginas permitidas pelo dono do site.</p>
